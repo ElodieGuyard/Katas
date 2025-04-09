@@ -1,8 +1,8 @@
 package com.example;
 
 public class Employee {
-    public String name;
-    public int age;
+    private String name;
+    private int age;
 
     public Employee(String name, int age){
         this.name = name;
