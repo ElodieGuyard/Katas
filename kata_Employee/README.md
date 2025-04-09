@@ -8,7 +8,7 @@ Ce kata est une mise en pratique des bases de la programmation orientée objet e
 - Manipuler les **classes** et **objets** en Java.
 - Utiliser les **listes** (`ArrayList`) pour stocker des objets.
 - Implémenter des **méthodes de tri personnalisées** à l'aide de `Comparator`.
-- Découvrir les notions de **tests unitaires** avec JUnit.
+- Pratiquer les notions de **tests unitaires** avec JUnit.
 - Appliquer les concepts de **méthodes d'instance** et **encapsulation**.
 - Gérer les différences de **casse** lors du tri de chaînes de caractères.
 
