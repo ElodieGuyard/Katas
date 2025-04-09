@@ -74,6 +74,6 @@ assertFalse("Kevin est mineur", testeur2.isMajeur());
 
 ---
 
-👩‍💻 **Auteur·rice** : [Elodie Guyard](https://github.com/ElodieGuyard)  
+👩‍💻 **Auteurrice** : [Elodie Guyard](https://github.com/ElodieGuyard)  
 🗓️ **Date** : Avril 2025  
 🎓 **Niveau** : Débutant Java
